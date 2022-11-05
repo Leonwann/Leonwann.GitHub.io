@@ -1,0 +1,6 @@
+- title: Email
+  url: mailto://kpsmilee@outlook.com
+  icon: fas fa-envelope
+- title: weibo
+  url: https://weibo.com
+  icon: fab fa-weibo

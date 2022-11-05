@@ -1,0 +1,9 @@
+- type: 日期
+  title: 日期Dates
+  url: /dates/
+#- type: categories
+#  title: Categories
+#  url: /categories/
+- type: 分类
+  title: 分类Tags
+  url: /tags/
