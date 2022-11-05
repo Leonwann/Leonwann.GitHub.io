@@ -1,7 +1,7 @@
 # Setup
 title: 微笑杂货铺
-description: 一个满是杂物的个人博客，欢迎来访。
-url: https://leonwann.github.io/
+description: 一个满是杂物的个人博客,欢迎来访
+url: https://leonwann.github.io
 avatar: /avatar.jpeg
 paginate: 5
 permalink: pretty
@@ -56,4 +56,4 @@ sass:
 author:
   name: 微笑杂货铺
   url: https://github.com
-  email: kpsmilee@outlook.com
+  email: kpsmile@outlook.com
