@@ -1,5 +1,5 @@
 # Setup
-title: 微笑杂货铺
+title: 夕拾杂货铺
 description: 一个满是杂物的个人博客,欢迎来访
 url: https://leonwann.github.io
 avatar: /avatar.jpeg
@@ -43,7 +43,6 @@ lang: en
 sass:
   sass_dir: _sass
   style: :compressed
-
 # Options
 
 # Replace this value and uncomment to enable Google Analytics tracking
@@ -54,6 +53,6 @@ sass:
 
 # Specify the author for blog posts
 author:
-  name: 微笑杂货铺
+  name: 夕拾杂货铺
   url: https://github.com
   email: kpsmile@outlook.com
