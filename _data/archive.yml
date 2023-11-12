@@ -7,3 +7,7 @@
 - type: 分类
   title: 分类Tags
   url: /tags/
+  
+- type: 简历
+  title: 简历Notes
+  url: /notes/
