@@ -9,6 +9,8 @@ title: 简历Notes
 
 学历：普通本科/Undergraduate
 
+所在地：安徽/Anhui
+
 年龄：30-35之间/Between 30-35
 
 拥有十年以上审计工作经历/Auditing
