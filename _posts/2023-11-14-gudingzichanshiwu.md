@@ -3,7 +3,7 @@ layout: post
 title: "固定资产核算实务问题"
 author: Xishi
 tags:
-- 审计
+- 财务会计
 date: 2023-11-14 14：00 +0800
 toc:  true
 ---
