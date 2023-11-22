@@ -1,6 +1,6 @@
 - title: Email
   url: mailto://kpsmilee@outlook.com
   icon: fas fa-envelope
-- title: weibo
-  url: https://weibo.com
-  icon: fab fa-weibo
+- title: 微信公众号
+  url: https://mp.weixin.qq.com/mp/profile_ext?action=home&__biz=MzkzNTYxMzg2Ng==
+  icon: fab fa-weixin
