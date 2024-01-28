@@ -3,7 +3,6 @@ layout: post
 title: "如何理解新租赁准则下的税会差异"
 author: Xishi
 tags:
-- 审计
 - 会计
 date: 2024-1-28 13：00 +0800
 toc:  true
